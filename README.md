@@ -1,4 +1,4 @@
-# Proyecto_Simunlacion
+# Proyecto_Simulacion
 Se busca representar graficamente el comportamiento que tiene fluido viscoso al ser lanzado sobre una superficie que cuenta con dos vigas.
 
 Con el advenimiento de los métodos de diferencia finita es posible aproximar soluciones de  ecuaciones diferenciales como las de Navier-Stokes 
@@ -10,4 +10,6 @@ del tiempo y con presión constante. En primer lugar se hará la discretización
 considerará la discretización de las ecuaciones de Navier-Stokes y se hallará el estado de cada una de las celdas de manera iterativa mediante la 
 resolución de las ecuaciones anteriormente mencionadas a través de los diferentes métodos numéricos. Como medida final, se realizará interpolación 
 polinómica para concretar la visualización de los resultados de la simulación.
+
+#NOTA : SE RECOMIENDA CORRER EN AMBIENTE DE COLAB POR PROBLEMAS CONFLICTO CON ALGUNAS LIBRERIAS
 
